@@ -1,0 +1,16 @@
+*.pyc
+/.idea/
+/media/
+fontedeprecos/local_settings.py
+/staticbuild/
+.error.log
+/logs/
+/.vscode/
+/env/
+/fontedeprecos_crawler/logs/
+/fontedeprecos_crawler/dbs/
+/fontedeprecos_crawler/build/
+/fontedeprecos_crawler/eggs/
+/fontedeprecos_crawler/project.egg-info/
+/fontedeprecos_crawler/scrapyd.conf
+/fontedeprecos_crawler/twistd.pid
